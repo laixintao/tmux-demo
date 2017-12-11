@@ -10,6 +10,8 @@
 - Good layout management, a lot like a tiling window manager
 - Unicode seems to Just Work with modern terminals
 - Some terminal issues fixed with TERM=tmux
+
++++
 ### Cons
 - Slow -- unsure why, but keystrokes seem laggy No more issues with slowness
 - Multiplexing forces the whole session width and height to the smallest attached terminal
@@ -29,6 +31,8 @@
 - Emacs-ish bindings built in
 - Easy to move and control horizontal panes
 - When multiplexing, any attached terminal can resize a pane
+
++++    
 
 ### Cons
 - No vertical splits without patch (except on Ubuntu)
