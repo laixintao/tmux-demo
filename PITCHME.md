@@ -1,3 +1,9 @@
+# Tmux (Terminal Multiplexer)
+
+Source: https://github.com/tmux/tmux
+Mnaual: `man tmux`
+---
+
 # Tmux VS GNU Screen
 
 +++
@@ -32,7 +38,7 @@
 - Easy to move and control horizontal panes
 - When multiplexing, any attached terminal can resize a pane
 
-+++    
++++
 
 ### Cons
 - No vertical splits without patch (except on Ubuntu)
