@@ -4,14 +4,17 @@
 - Source: https://github.com/tmux/tmux
 - Mnaual: `man tmux`
 - Google Group: https://groups.google.com/forum/#!forum/tmux-users
+
 ---
 
 # Tmux VS GNU Screen
 
 +++
+
 ## tmux
 
 ### Pros
+
 - Can send keys to other panes, kind of like an IDE
 - Easy keybindings -- with the right config, you'll feel at home from Vim or Screen
 - Vim-ish and Emacs-ish bindings built-in
@@ -23,11 +26,8 @@
 ### Cons
 - Slow -- unsure why, but keystrokes seem laggy No more issues with slowness
 - Multiplexing forces the whole session width and height to the smallest attached terminal
-- Has crashed multiple times on Mac OS X, losing the entire session
+- Has crashed multiple times on Mac OS X, losing the entire session(happened to me)
 - Has failed on Linux after upgrade, where I couldn't reconnect to my old session
-- Misses command keystrokes occasionally - ^A ^[ takes a few tries for copy mode
-- Can't move a pane from one window to another Fixed with the join-pane command
-- No line unwrapping (or "reflow" or "rewrap") after terminal width change (window resizing)
 
 +++
 
