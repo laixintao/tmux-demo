@@ -7,6 +7,20 @@
 
 ---
 
+# Pronunciation
+
+- Terminal MUlitipleXer
+- Tee Mucks
+
+> The correct pronunciation of "tmux" is a matter of some dispute in my office. Many avoid the issue by installing screen.
+
+### Refer
+
+1. [Vim, Tmux, Zsh怎么读](http://www.liriansu.com/pronunciations)
+2. [Screen vs Tmux](https://www.reddit.com/r/linux/comments/yz4r6/screen_vs_tmux/c6034gp/)
+
+---
+
 # Tmux VS GNU Screen
 
 +++
@@ -47,3 +61,9 @@
 - Pane splits are lost when detaching
 - Getting Unicode to work takes a little finesse and determination
 - Crazy status line configuration
+
+---
+
+# Tmux VS iTerm2
+
+- Cross Plantform
