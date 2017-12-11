@@ -7,17 +7,74 @@
 
 ---
 
-# Pronunciation
+# Why Tmux?
+
+- Mouse free
+- Cross Plantform
+- Sever/Client
+- Just Shell Commands
+
+---
+
+## Pronunciation
 
 - Terminal MUlitipleXer
 - Tee Mucks
 
 > The correct pronunciation of "tmux" is a matter of some dispute in my office. Many avoid the issue by installing screen.
 
-### Refer
+---
 
-1. [Vim, Tmux, Zsh怎么读](http://www.liriansu.com/pronunciations)
-2. [Screen vs Tmux](https://www.reddit.com/r/linux/comments/yz4r6/screen_vs_tmux/c6034gp/)
+# Introduction
+
+- Status Bar
+- Client, Session, Window, Penal
+    (Session:window.panel)
+- Server/Client
+
+---
+
+# Automation
+
+- tmux command
+- bootstrap tmux shell
+
+---
+
+# Key Binding
+
+---
+
+# Config
+
++++
+
+Status Bar
+
++++
+
+Window Name
+
++++
+
+Bell
+
++++
+
+Copy and Paste
+
+---
+
+# Plugins
+
+- Plugin Manager: https://github.com/tmux-plugins/tpm
+
++++
+
+### tmux-sensible
+
+Basic tmux settings everyone can agree on.
+https://github.com/tmux-plugins/tmux-sensible
 
 ---
 
@@ -61,6 +118,13 @@
 - Pane splits are lost when detaching
 - Getting Unicode to work takes a little finesse and determination
 - Crazy status line configuration
+
++++
+
+## Byobu
+
+- A fork of GNU-screen
+- http://byobu.co/
 
 ---
 
