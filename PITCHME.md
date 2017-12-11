@@ -1,7 +1,9 @@
-# Tmux (Terminal Multiplexer)
+# Tmux 
+## (Terminal Multiplexer)
 
-Source: https://github.com/tmux/tmux
-Mnaual: `man tmux`
+- Source: https://github.com/tmux/tmux
+- Mnaual: `man tmux`
+- Google Group: https://groups.google.com/forum/#!forum/tmux-users
 ---
 
 # Tmux VS GNU Screen
