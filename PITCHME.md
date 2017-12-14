@@ -45,7 +45,7 @@
 
 # Automation
 
-- tmux command
+- tmux command(all start with tmux)
 - bootstrap tmux shell
 
 ---
@@ -100,21 +100,10 @@ bind l select-pane -R
 
 # Config
 
-+++
-
-Status Bar
-
-+++
-
-Window Name
-
-+++
-
-Bell
-
-+++
-
-Copy and Paste
+- Status Bar
+- Window Name
+- Bell
+- Copy and Paste
 
 ---
 
