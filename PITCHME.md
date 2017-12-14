@@ -34,7 +34,7 @@
 
 ### Session:Window.panel
 
-![](session-window-panel.svg)
+![](session-window-panel.png)
 
 ---
 
