@@ -27,8 +27,28 @@
 
 # Introduction
 
-- Status Bar
-- Server/Client
+### Server/Client
+
+- attach
+- disconneted
+
++++
+
+### status-bar
+
+```
+Symbol    Meaning
+*         Denotes the current window.
+-         Marks the last window (previously selected).
+#         Window activity is monitored and activity has been
+                     detected.
+!         Window bells are monitored and a bell has occurred in
+                     the window.
+~         The window has been silent for the monitor-silence
+                     interval.
+M         The window contains the marked pane.
+Z         The window's active pane is zoomed.
+```
 
 +++
 
@@ -127,6 +147,14 @@ Share your screen
 
 Basic tmux settings everyone can agree on.
 https://github.com/tmux-plugins/tmux-sensible
+
++++
+### mem-cpu-load
+
+CPU, RAM, and load monitor for use with tmux
+https://github.com/thewtex/tmux-mem-cpu-load
+
+<img src="cpu-mem-load.png" alt="Drawing" style="width: 400px;height: 350px;"/>
 
 ---
 
