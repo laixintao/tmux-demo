@@ -52,9 +52,16 @@ Z         The window's active pane is zoomed.
 
 +++
 
-### Session:Window.panel
+### Session:Window.pane
 
-![](session-window-panel.png)
+![](session-window-pane.png)
+
++++
+
+1. Session Management
+2. Window Management
+3. Pane Management
+4. Kill Single Pane
 
 ---
 
