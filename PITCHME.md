@@ -37,7 +37,7 @@
 # Pair Programming
 
 1. User1 Create a session
-2. User2 Join the session
+2. User2 Join the session(not create a new one)
 3. Enjoy!
 3. Free to kill your session!
 
@@ -51,6 +51,11 @@
 ---
 
 # Key Binding
+
+---
+
+## Prefix Key
+
 
 ---
 
@@ -149,6 +154,7 @@ https://github.com/tmux-plugins/tmux-sensible
 
 # Some Tutorials
 
+0. [`man tmux`](http://man7.org/linux/man-pages/man1/tmux.1.html)
 1. https://pityonline.gitbooks.io/tmux-productive-mouse-free-development_zh/content/book-content/Chapter5.html
 2. My Blog: https://www.kawabangga.com/?s=tmux
 
