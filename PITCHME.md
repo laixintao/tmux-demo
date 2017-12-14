@@ -28,9 +28,13 @@
 # Introduction
 
 - Status Bar
-- Client, Session, Window, Penal
-    (Session:window.panel)
 - Server/Client
+
++++
+
+### Session:Window.panel
+
+![](session-window-panel.svg)
 
 ---
 
