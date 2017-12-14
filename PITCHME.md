@@ -109,6 +109,8 @@ bind l select-pane -R
 
 # Tmate
 
+Share your screen
+
 ---
 
 # Plugins
