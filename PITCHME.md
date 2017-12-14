@@ -34,6 +34,15 @@
 
 ---
 
+# Pair Programming
+
+1. User1 Create a session
+2. User2 Join the session
+3. Enjoy!
+3. Free to kill your session!
+
+---
+
 # Automation
 
 - tmux command
@@ -62,6 +71,10 @@ Bell
 +++
 
 Copy and Paste
+
+---
+
+# Tmate
 
 ---
 
@@ -131,3 +144,10 @@ https://github.com/tmux-plugins/tmux-sensible
 # Tmux VS iTerm2
 
 - Cross Plantform
+
+---
+
+# Some Tutorials
+
+1. https://pityonline.gitbooks.io/tmux-productive-mouse-free-development_zh/content/book-content/Chapter5.html
+2. My Blog: https://www.kawabangga.com/?s=tmux
