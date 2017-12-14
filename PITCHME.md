@@ -58,15 +58,21 @@ bind [key] [command]
 
 +++
 
+### Quick reload
+
+```
 bind r source-file ~/.tmux.conf; display-message "Config Reloaded!"
+```
 
 +++
 
 ### Prefix key
 
+```
 unbind C-b
 set -g prefix C-a
 bind C-a send-prefix 
+```
 
 ---
 
