@@ -74,10 +74,27 @@ set -g prefix C-a
 bind C-a send-prefix 
 ```
 
----
++++
 
-## Prefix Key
+### Split window
 
+```
+unbind %
+bind | split-window -h -c "#{pane_current_path}"
+unbind '"'
+bind - split-window -v -c "#{pane_current_path}" 
+```
+
++++
+
+### Vim T-pad key
+
+```
+bind h select-pane -L
+bind j select-pane -D
+bind k select-pane -U
+bind l select-pane -R
+```
 
 ---
 
