@@ -21,7 +21,7 @@
 - Terminal MUlitipleXer
 - Tee Mucks
 
-> The correct pronunciation of "tmux" is a matter of some dispute in my office. Many avoid the issue by installing screen.
+> The correct pronunciation of "tmux" is a matter of some dispute in my office. Many avoid the issue by installing screen.  @[reddit](https://www.reddit.com/r/linux/comments/yz4r6/screen_vs_tmux/c6034gp/)
 
 ---
 
@@ -51,6 +51,16 @@
 ---
 
 # Key Binding
+
+bind [key] [command]
+
+*case sensitive*
+
++++
+
+bind r source-file ~/.tmux.conf; display-message "Config Reloaded!"
+
++++
 
 ---
 
